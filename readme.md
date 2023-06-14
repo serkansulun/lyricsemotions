@@ -1,4 +1,4 @@
-Emotion classification of MIDI lyrics
+# Emotion classification of MIDI lyrics
 
 To only download the datasets, with pairs of MIDI file names and predicted emotions from the lyrics, you can right-click and choose "Save Link As...", using the links below:
 
