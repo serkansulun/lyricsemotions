@@ -1,5 +1,7 @@
 # Emotion classification of MIDI lyrics
 
+(Also check out <https://github.com/serkansulun/midi-emotion> for another, more accurate MIDI dataset with continuous-valued valence-arousal labels.)
+
 To only download the datasets, with pairs of MIDI file names and predicted emotions from the lyrics, you can right-click and choose "Save Link As...", using the links below:
 
 [7-labels](https://raw.githubusercontent.com/emotionalmusic/lyricsemotions/master/datasets/7labels.csv)
